@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264144668397",
+    "project_id": "techs-ebe17",
+    "storage_bucket": "techs-ebe17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264144668397:android:811d3dade8dbc9e54deee4",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKQHy5u-k3lmy9uJl-JR9zotV-yOPcwgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
